@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fidel Collin ====================================================================================================================================  Web Developer and occasional explorer of the world --------------------------------------------------  I've been learning to be a developer for 2 years. Full time developer for an amazing commercial ad agency. Enjoys travelling around the world. Currently learning to mix music.  * 🌍  I'm based in London * 🖥️  See my portfolio at [Fidel Collin](http://https://fidelcollin.com/) * 🧠  I'm learning Everything ReactJS and NextJS
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fidel Collin 
+
+Web Developer and occasional explorer of the world I've been learning to be a developer for 2 years. Full time developer for an amazing commercial ad agency. Enjoys travelling around the world. Currently learning to mix music.  * 🌍  I'm based in London * 🖥️  See my portfolio at [Fidel Collin](http://https://fidelcollin.com/) * 🧠  I'm learning Everything ReactJS and NextJS
 
 ### Skills  
 
